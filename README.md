@@ -1,3 +1,4 @@
+https://mangurajubhukya-cmyk.github.io/Arithmo-blaster-game/
 # Arithmo-blaster-game
 To improve the thinking techniques in brain 
 <!DOCTYPE html>
